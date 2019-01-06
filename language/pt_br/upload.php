@@ -62,13 +62,13 @@ $lang = array_merge($lang, array(
 	'EXTENSIONS_AVAILABLE'				=> 'Extensões desinstaladas',
 	'EXTENSIONS_UPLOADED'				=> 'Extensões enviadas',
 	'EXTENSIONS_UNAVAILABLE'			=> 'Extensões quebradas',
-	'EXTENSIONS_UNAVAILABLE_EXPLAIN'	=> 'As extensões listadas abaixo são enviadas para o seu fórum, mas elas são quebradas devido a alguns motivos e é por isso que elas estão indisponíveis e não podem ser ativadas em seu fórum. Por favor, verifique os arquivos corretos e use a ferramenta Limpeza de Extensão se você quiser excluir os arquivos de extensões quebradas do servidor.',
+	'EXTENSIONS_UNAVAILABLE_EXPLAIN'	=> 'As extensões listadas abaixo são enviadas para o seu fórum, mas elas são quebradas devido a alguns motivos e é por isso que elas estão indisponíveis e não podem ser ativadas em seu fórum. Por favor, verifique os arquivos corretos e use a ferramenta de Limpeza de Extensão se você quiser excluir os arquivos de extensões quebradas do servidor.',
 	'EXTENSION_BROKEN'					=> 'Extensão quebrada',
 	'EXTENSION_BROKEN_ENABLED'			=> 'Esta extensão quebrada está ativada!',
 	'EXTENSION_BROKEN_DISABLED'			=> 'Esta extensão quebrada está desativada!',
 	'EXTENSION_BROKEN_TITLE'			=> 'Esta extensão está quebrada',
 	'EXTENSION_BROKEN_DETAILS'			=> 'Clique aqui para ver os detalhes.',
-	'EXTENSION_BROKEN_EXPLAIN'			=> '<strong>Alguns dados dessa extensão ainda estão salvos no servidor.</strong> Por favor, confira por que esta extensão está quebrada. Pode ser necessário pedir ajuda aos desenvolvedores de extensões e usar o FTP para alterar alguns arquivos (ou você pode fazer o envio de uma versão com correções). Em seguida, você poderá administrar a extensão novamente.<br /><h3> O que você pode fazer:</h3><br /><strong>Atualize a extensão quebrada.</strong><br /><ul><li>Verifique se a extensão está desativada (clique na opção de alternar, se necessário).</li><li>Descubra se uma nova versão da extensão está disponível. Tente enviá-lo.</li><li>Se o problema não for resolvido, você pode pedir ajuda aos desenvolvedores da extensão.</ul><strong>ou</strong><br /><br /><strong>Remova totalmente a extensão quebrada.</strong><br /><ul><li>Verifique se a extensão está desabilitada (clique na chave se necessário).</li><li>Verifique se a extensão os dados da extensão são excluídos (clique no botão da lixeira, se necessário).</li><li>Remova os arquivos da extensão usando a ferramenta Limpeza de Extensão.</ul>',
+	'EXTENSION_BROKEN_EXPLAIN'			=> '<strong>Alguns dados dessa extensão ainda estão salvos no servidor.</strong> Por favor, confira por que esta extensão está quebrada. Pode ser necessário pedir ajuda aos desenvolvedores de extensões e usar o FTP para alterar alguns arquivos (ou você pode fazer o envio de uma versão com correções). Em seguida, você poderá administrar a extensão novamente.<br /><h3> O que você pode fazer:</h3><br /><strong>Atualize a extensão quebrada.</strong><br /><ul><li>Verifique se a extensão está desativada (clique na opção de alternar, se necessário).</li><li>Descubra se uma nova versão da extensão está disponível. Tente enviá-lo.</li><li>Se o problema não for resolvido, você pode pedir ajuda aos desenvolvedores da extensão.</ul><strong>ou</strong><br /><br /><strong>Remova totalmente a extensão quebrada.</strong><br /><ul><li>Verifique se a extensão está desabilitada (clique na chave se necessário).</li><li>Verifique se a extensão os dados da extensão são excluídos (clique no botão da lixeira, se necessário).</li><li>Remova os arquivos da extensão usando a ferramenta de Limpeza de Extensão.</ul>',
 
 	'EXTENSION_UPLOADED_ENABLE'			=> 'Ativar a extensão enviada',
 	'ACP_UPLOAD_EXT_UNPACK'				=> 'Descompacte a extensão',
@@ -231,6 +231,6 @@ $lang = array_merge($lang, array(
 	'UPLOAD_DESCRIPTION_ZIP_SAVE'		=> 'Salvar zips em um diretório de sua escolha',
 	'UPLOAD_DESCRIPTION_ZIP_UNPACK'		=> 'Descompactar um arquivo zip para instalar uma extensão',
 	'UPLOAD_DESCRIPTION_ZIP_DOWNLOAD'	=> 'Baixar pacotes zip adequados de extensões',
-	'UPLOAD_DESCRIPTION_CLEANER'		=> 'Ferramenta de limpeza de extensão',
+	'UPLOAD_DESCRIPTION_CLEANER'		=> 'Ferramenta de Limpeza de Extensão',
 	'UPLOAD_DESCRIPTION_CLEANER_ABOUT'	=> 'Você pode excluir diretórios de extensão ou arquivos zip de extensões do servidor.',
 ));
